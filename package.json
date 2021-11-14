@@ -1,0 +1,10 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my_ciphering_cli.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
