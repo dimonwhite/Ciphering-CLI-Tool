@@ -1,6 +1,6 @@
 # Ciphering-CLI-Tool
 
-CLI tool encode and decode a text by Caesar cipher.
+CLI tool encode and decode a text by Caesar, ROT-8 and Atbash cipher.
 
 ## Install
 
